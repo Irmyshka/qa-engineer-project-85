@@ -10,7 +10,7 @@
   steps:
     - Вводим логин
     - Вводим пароль
-      expected-result: |
+  expected-result: |
     Пользователь получит сообщение об ошибке - в адресе эл.почты (invalid email) и пароле 
     
 - summary: |
