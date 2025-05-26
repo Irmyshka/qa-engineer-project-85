@@ -379,7 +379,7 @@
     общее количество игр пользователя не изменилось (не прибавилась игра)
 
 - summary: |
-    Переход на сайт Hexlet, Join Discord, SourceCode или Tg#codebattle
+    Переход на сторонние сайты
   requirement: |
     Авторизованный пользователь может перейти в Hexlet, Join Discord, SourceCode или Tg#codebattle 
   prerequisites: |
